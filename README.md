@@ -91,7 +91,7 @@ You can also configure which size utilities are generated in the `buttonSizes` s
         },
     }
 
-By customizing the buttonDefault section of the 'tailwind.config.js' to specify the button's default style.
+By customizing the `buttonDefault` section of the `tailwind.config.js` to specify the button's default style.
 
     module.exports = {
         theme: {
