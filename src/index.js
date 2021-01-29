@@ -61,9 +61,6 @@ const pluginButtons = plugin(({ addComponents, theme }) => {
             xl: ['3.5rem', '2.5rem', '20px'],
         },
         buttonDefault: {
-            display: 'inline-flex',
-            alignItems: 'center',
-            justifyContent: 'center',
             height: '2.5rem',
             paddingLeft: '1.5rem',
             paddingRight: '1.5rem',
@@ -71,9 +68,6 @@ const pluginButtons = plugin(({ addComponents, theme }) => {
             color: '#ffffff',
             borderRadius: '.25rem',
             transition: 'all 150ms ease-in-out',
-            '&:focus': {
-                outline: 'none',
-            }
         },
     }
 })
