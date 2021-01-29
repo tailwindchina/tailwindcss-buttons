@@ -2,6 +2,8 @@
 
 A TailwindCSS plugin that provides a set of button components based on the TailwindCSS palette.
 
+[Live Demo](https://tailwindchina.github.io/tailwindcss-buttons/)
+
 ![tailwindcss-buttons](https://tva1.sinaimg.cn/large/008eGmZEly1gn4v1uyaj8j31ng0dcq4v.jpg)
 
 ## Installation
