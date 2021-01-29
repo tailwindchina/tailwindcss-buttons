@@ -9,10 +9,10 @@ A TailwindCSS plugin that provides a set of button components based on the Tailw
 Install the plugin from npm:
 
     # Using npm
-    npm install tailwindcss-buttons
+    npm install tailwindchina-tailwindcss-buttons
 
     # Using yarn
-    yarn add tailwindcss-buttons
+    yarn add tailwindchina-tailwindcss-buttons
 
 The add the plugin to your `tailwind.config.js` file:
 
@@ -22,7 +22,7 @@ The add the plugin to your `tailwind.config.js` file:
             // ...
         },
         plugins: [
-            require('tailwindcss-buttons')
+            require('tailwindchina-tailwindcss-buttons')
         ],
     }
 
